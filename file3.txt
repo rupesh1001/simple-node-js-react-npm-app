@@ -1,2 +1,0 @@
-this is first line of file3.
-this is second line of file3.
